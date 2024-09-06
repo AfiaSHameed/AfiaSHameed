@@ -1,4 +1,12 @@
-## Hi there 👋
+## Afia.S.Hameed 👋
+
+###Aboutm Me
+
+Faculty in Civil Engineering and doing research in Geopolymer concrete
+<www.saintgits.org>
+
+##Workshop Attended
+- Faculty Development Programme- *Instructional Design for Python Programming*
 
 <!--
 **AfiaSHameed/AfiaSHameed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
